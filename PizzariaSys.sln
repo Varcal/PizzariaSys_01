@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzariaSys.AcessoDados", "D:\Projetos .Net\PizzariaSys\PizzariaSys.AcessoDados\PizzariaSys.AcessoDados.csproj", "{DA6D58E8-ED58-45DD-A84C-47FE86977E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzariaSys.Dominio", "D:\Projetos .Net\PizzariaSys\PizzariaSys.Dominio\PizzariaSys.Dominio.csproj", "{512FAA98-DC66-4C15-9D2A-236D3C36B82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzariaSys.Web", "D:\Projetos .Net\PizzariaSys\PizzariaSys.Web\PizzariaSys.Web.csproj", "{D8EA04CC-75C3-495D-81A6-99679E960E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzariaSys.WindowsForm", "D:\Projetos .Net\PizzariaSys\PizzariaSys.WindowsForm\PizzariaSys.WindowsForm.csproj", "{90C1E324-3430-467A-B905-3072621CFDFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6D58E8-ED58-45DD-A84C-47FE86977E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6D58E8-ED58-45DD-A84C-47FE86977E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6D58E8-ED58-45DD-A84C-47FE86977E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6D58E8-ED58-45DD-A84C-47FE86977E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512FAA98-DC66-4C15-9D2A-236D3C36B82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512FAA98-DC66-4C15-9D2A-236D3C36B82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512FAA98-DC66-4C15-9D2A-236D3C36B82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512FAA98-DC66-4C15-9D2A-236D3C36B82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8EA04CC-75C3-495D-81A6-99679E960E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EA04CC-75C3-495D-81A6-99679E960E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EA04CC-75C3-495D-81A6-99679E960E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EA04CC-75C3-495D-81A6-99679E960E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C1E324-3430-467A-B905-3072621CFDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C1E324-3430-467A-B905-3072621CFDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C1E324-3430-467A-B905-3072621CFDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C1E324-3430-467A-B905-3072621CFDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

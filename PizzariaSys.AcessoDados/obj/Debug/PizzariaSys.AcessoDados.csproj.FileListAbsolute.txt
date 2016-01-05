@@ -1,0 +1,18 @@
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll.config
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\clebe_000\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll.config
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csprojResolveAssemblyReference.cache
+D:\Projetos .Net\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll.config
+D:\Projetos .Net\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.dll
+D:\Projetos .Net\PizzariaSys\PizzariaSys.AcessoDados\bin\Debug\PizzariaSys.AcessoDados.pdb
+D:\Projetos .Net\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.csprojResolveAssemblyReference.cache
+D:\Projetos .Net\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.dll
+D:\Projetos .Net\PizzariaSys\PizzariaSys.AcessoDados\obj\Debug\PizzariaSys.AcessoDados.pdb
